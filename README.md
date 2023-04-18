@@ -19,6 +19,7 @@ Awesome Logseq extensions and resources created by the community &lt;3
 ## 🎨 CSS Themes
 
 - [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme) By mendax1234
+- [logseq-cusgit-theme](https://githubxxxxx.com/mendax1234/logseq-cusgit-theme) By mendax1234
 - [logseq-dracula](https://github.com/SlyBouhafs/logseq-dracula) By SlyBouhafs
 - [logseq_ono-sendai](https://github.com/cannibalox/logseq_ono-sendai) By Cannibalox
 - [logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) By Cannibalox
